@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this result or the code, please cite it as below."
+title: "a227358: exhaustive search for OEIS A227358(11)"
+authors:
+  - family-names: Kwaczyński
+    given-names: Paweł
+    orcid: "https://orcid.org/0009-0004-0627-3621"
+    city: Łódź
+    country: PL
+type: software
+license: MIT
+doi: "10.5281/zenodo.23132453"
+repository-code: "https://github.com/pawelkwaczynski/a227358"
+date-released: 2026-10-04
+version: 1.0.0

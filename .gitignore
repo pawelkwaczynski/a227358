@@ -1,0 +1,5 @@
+results/*.tar.zst
+__pycache__/
+*.pyc
+b3core-portable
+shard-*.jsonl

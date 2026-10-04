@@ -1,0 +1,4 @@
+witness (from 0): [0, 2, 10, 17, 52, 108, 187, 323, 398, 434, 445]
+elements 11 span 445 triple sums 286 distinct 286
+coverage every_prefix_exactly_once | prefixes 3654793 | nodes 9355743257131
+WITNESS CHECK PASS

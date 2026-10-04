@@ -1,0 +1,6 @@
+built 2026-10-03T13:18:36Z on uan03
+compiler: g++ (SUSE Linux) 14.3.0
+flags: -std=c++17 -O3 -fno-exceptions -pthread
+ce4cededc0942229c320071a75291187b2fadb76c5a3fd4dbedc8a67d3cbf65d  b3core.cpp
+227e96e5885a066cf159fc8530b4832276bb4d223eceed13ba3db62879fae307  merge_b3_shards.py
+8eb5df4b3f904215f598d1067f5356a97fc506636a87db7318354b37fe84e1c8  b3core-portable

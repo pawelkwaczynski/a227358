@@ -9,7 +9,7 @@ authors:
     country: PL
 type: software
 license: MIT
-doi: "10.5281/zenodo.23132453"
+doi: "10.5281/zenodo.23132452"
 repository-code: "https://github.com/pawelkwaczynski/a227358"
-date-released: 2026-10-04
-version: 1.0.0
+date-released: 2026-10-05
+version: 1.1.0

@@ -1,0 +1,1 @@
+{"verdict":"OK","k":10,"maxel":308,"bounds":[0,1,4,11,23,45,82,129,208],"depth":3,"N":1024,"max_print":1000,"symmetry_pruning":false,"catalog_count":1349096,"catalog_hash":"0x52e0b76b6242fca8","prefixes_done":1349096,"nodes":224860296070,"solutions":0,"min_span":null,"solutions_at_min":0,"first_solutions":[],"complete":true}
